@@ -10,6 +10,8 @@ Due 6 May 2019 at 10:00 pm
 
 This project is worth 30% of the overall mark for this subject.
 
+GitHub Classroom invitation: https://classroom.github.com/a/sbwLFlH4
+
 ## Introduction
 
 A client has just hired you to develop a casual iOS game based on an idea he had recently. He has no programming experiences and only knows the overall functions the game must have. You must help him to work out a detailed Graphical User Interface (GUI), design a well-structured program and implement the program in the Swift programming language. The final product shall be thoroughly tested and ready to be submitted to the App Store.
@@ -75,11 +77,11 @@ The game is called **BubblePop** (you can call your app a different name if you 
 
 ## Assessment
 
-You will demonstrate your app in your assigned lab on 19th May.
+You will demonstrate your app in your assigned lab on the week of 14 May. Your peers will mark your app's functionality and give you feedback on usability.
 
 **Max score**: 30 marks
 
-#### Functionality: 20 marks
+#### Functionality: 20 marks (marked by peers)
 
 The Xcode project must unzip successfully and compile without errors.
 
@@ -88,20 +90,19 @@ The Xcode project must unzip successfully and compile without errors.
 - 1 mark for operating without unhandled runtime errors.
 - 2 marks for correct display on different screen sizes and orientations.
 
-#### Code Style: 3 marks
+#### Code Style: 3 marks (marked by staff)
 
 - Deduct up to 1 mark for bad or inconsistent indentation, whitespace, or braces.  
 - Deduct up to 1 mark for bad or misleading comments.  
 - Deduct up to 1 mark for unclear symbol naming.
 
-#### Program Design: 7 marks
+#### Program Design: 7 marks (marked by staff)
 
 - **Functional separation**: Is the problem broken down into meaningful parts?  
 - **Loose coupling**: Can parts be changed in isolation of each other?  
 - **Extensibility**: Would it be easy to add more functionality? (more operations, more numerical accuracy, interactivity, variables, etc)  
 - **Control flow**: Are all actions of the same type handled at the same level?  
 - **Error handling**: Are errors detected at appropriate places? Is the user prevented from entering invalid input?
-- **Marker's discretion** (2 marks)
 
 #### Late submission
 
@@ -119,13 +120,12 @@ Students may apply for special consideration if they consider that illness or mi
 
 It is quite possible that errors or ambiguities may be found in the specification. If so, updates will be placed on UTSOnline and announcements made regarding the amendment. It is your responsibility to keep up to date on such amendments and ensure you are using the latest version of the Project Description.
 
-If you discover an error, ambiguity, or bug, you will receive the maximum "Marker's discretion" credit (2 marks). The following rules apply:
+If you discover an error or bug in the provided material, you will receive favorable marking. The following rules apply:
 
 1. It must be a report on the currently posted version of the material.
 2. It must be reported on the UTS Online discussion board to be accepted.
 3. It must be a genuine bug. By genuine I mean it requires me to amend the material.
 4. If a number of students post a report on the same bug, the first who posted will receive the mark.
-5. No matter how many bug reports you make, you can only get 2 marks.
 
 ## Return of Assessed Project
 
@@ -142,7 +142,9 @@ It is expected that marks will be made available one week after the final due da
 
 ## Queries
 
-If you have a question, please contact the instructor as soon as possible. Please do not send email in HTML format or with attachments. They will not be read or opened. Only emails sent in plain text format will be read. Emails without subject lines will be automatically deleted by the junk mail filters I have in place.
+If you have a question, please contact the instructor as soon as possible.
+
+It is easier to answer queries about [specific code](http://sscce.org/). Please upload your code to the GitHub Classroom repository so that I can read it instead of guessing what it might be.
 
 If the answer to your questions can be found directly in any of the following:
 
