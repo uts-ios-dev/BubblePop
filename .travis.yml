@@ -1,0 +1,8 @@
+os: osx
+osx_image: xcode9.2
+language: swift
+xcode_project: BubblePop.xcodeproj
+xcode_scheme: BubblePop
+install: true
+script:
+  - xcodebuild clean build -project BubblePop.xcodeproj -scheme BubblePop CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
