@@ -24,7 +24,7 @@ A client has just hired you to develop a casual iOS game based on an idea he had
 
 The purpose of this project is to demonstrate competence in the following skills:
 
-- [ ] Experience a full app software development cycle
+- [ ] The full software development cycle
 - [ ] iOS App UI and program design
 - [ ] iOS UI programming
 - [ ] Effective use of platform APIs
@@ -66,7 +66,7 @@ The game is called **BubblePop** (you can call your app a different name if you 
 2. Animations of game state transitions. For example, **one** of:
    1. Flashing count down 3, 2, 1 start at the beginning of play
    2. Bubbles shrinking, growing, or flying away when removed or tapped
-   3.  Score changes or combo lengths displayed in response to taps
+   3.  Score changes or combo lengths displayed with animations in response to taps
 3. The highest score in the scoreboard shall be displayed during gameplay.
 4. Any cool and useful features that you can think of.
 
@@ -98,11 +98,12 @@ The Xcode project must unzip successfully and compile without errors.
 
 #### Program Design: 7 marks (marked by staff)
 
+- **Data modeling**: Do the data structures reflect the problem domain?
+- **Immutable data and idempotent methods**: Is the type system used to prevent incorrect code from being written?
 - **Functional separation**: Is the problem broken down into meaningful parts?  
 - **Loose coupling**: Can parts be changed in isolation of each other?  
-- **Extensibility**: Would it be easy to add more functionality? (more operations, more numerical accuracy, interactivity, variables, etc)  
-- **Control flow**: Are all actions of the same type handled at the same level?  
-- **Error handling**: Are errors detected at appropriate places? Is the user prevented from entering invalid input?
+- **Extensibility**: How easy would it be to add, remove, or change functionality? Could a new mechanic or new content be added by changing data instead of changing code?
+- **Error handling**: Are errors detected at appropriate places? Is the user prevented from entering invalid input and guided toward valid input?
 
 #### Late submission
 
