@@ -1,12 +1,12 @@
 <img src="UTS-Logo.png" alt="University of Technology Sydney" width="200" style="width: 30%; float: left; padding: 0 1em 1em 0;"/><p>Faculty of Engineering and Information Technology<br/>School of Software</p>
 
-<p style="clear:left">41889 - Application Development in the iOS Environment<br/>42889 - iOS Application Development<br/>Autumn 2017</p>
+<p style="clear:left">41889 - Application Development in the iOS Environment<br/>42889 - iOS Application Development<br/>Autumn 2018</p>
 
 # Assessment Task 2
 
 Individual programming project: **BubblePop** Game
 
-Due 6 May 2019 at 10:00 pm  
+Due 6 May 2018 at 10:00 pm  
 
 This project is worth 30% of the overall mark for this subject.
 
