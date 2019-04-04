@@ -10,7 +10,7 @@ Due 10 May 2019 at 11:59 pm
 
 This project is worth 30% of the overall mark for this subject.
 
-GitHub Classroom invitation: https://classroom.github.com/a/sbwLFlH4
+GitHub Classroom invitation: https://classroom.github.com/a/923tJIQR
 
 ## Introduction
 
