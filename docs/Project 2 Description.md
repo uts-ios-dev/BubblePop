@@ -6,7 +6,7 @@
 
 Individual programming project: **BubblePop** Game
 
-Due 6 May 2018 at 10:00 pm  
+Due 10 May 2019 at 11:59 pm  
 
 This project is worth 30% of the overall mark for this subject.
 
